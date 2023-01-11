@@ -13,7 +13,7 @@ Repo utilizado para elaborar el trabajo para la asignatura "Programación y mane
 
 
 <!-- En la linea de abajo TIENES QUE SUSTITUIR "perezp44" por tu usuario de Github-->
-La versión final del trabajo puede visualizarse en: <https://vicgau01.github.io/my_trabajo_BigData/>. 
+La versión final del trabajo puede visualizarse en: <https://vicgau01.github.io/Trabajo_individual_Víctor_Gallego_NBAyEuroliga_en_BigData/>. 
 
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, creo que tienes que poner el título del trabajo y posiblemente tu nombre. Algo que explique porque está el repo en Github-->
